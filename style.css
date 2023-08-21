@@ -19,10 +19,10 @@
     --cor04: #807150;
     --cor05: #FFE3A1;
 
-    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-padrao: Verdana, Geneva, Tahoma, sans-serif;
     --fonte-cordel: 'cordel1', Arial;
-    --fonte-texto: 'sriracha', Arial;
-    --fonte-titulo: 'xilosa', Arial;
+    --fonte-texto: 'sriracha', cursive;
+    --fonte-titulo: 'xilosa', cursive;
 }
 
 *{
